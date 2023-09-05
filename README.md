@@ -1,2 +1,2 @@
 # FreeCodeCamp-Result-Tasks
-La solutions de les taches de freeCodeCamp certificat (responsive web design)
+La solution de les taches de freeCodeCamp certificat (responsive web design)
